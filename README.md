@@ -8,7 +8,7 @@
 - 📜 Mastering Terraform for Infrastructure as Code (IaC)  
 
 ## Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/ibrahim-mansour-673736338/)
+- LinkedIn: https://www.linkedin.com/in/ibrahim-mansour-673736338/
 - Email: im120699@gmail.com  
 
 Let's build the future of cloud together! 🚀  
